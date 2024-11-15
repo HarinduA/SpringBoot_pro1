@@ -1,2 +1,2 @@
 # SpringBoot_pro1
-SpringBoot_connection String
+This is a Databse access project with SpringBoot_connection. 
